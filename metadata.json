@@ -1,0 +1,5 @@
+{
+  "name": "SMAS",
+  "description": "A comprehensive social media analytics dashboard featuring real-time metrics, competitor comparison, and AI-driven insights using Google Gemini.",
+  "requestFramePermissions": []
+}
